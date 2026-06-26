@@ -61,6 +61,6 @@ Someone who **owns product outcomes and builds the AI features themselves** — 
 
 ## Roles & next steps
 
-Browse [AI Product Engineer roles](https://github.com/landedjobs/ai-product-engineer-new-grad) · **[Track your path + get referred on Landed →](https://landed.b100x.ai)**
+Browse [AI Product Engineer roles](https://github.com/landedjobs/ai-product-engineer-jobs) · **[Track your path + get referred on Landed →](https://landed.b100x.ai)**
 
 <sub>Maintained by [Landed](https://landed.b100x.ai).</sub>
