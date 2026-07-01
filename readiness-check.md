@@ -203,7 +203,7 @@ A strong answer traverses the ladder without being prompted: the feature and its
 - [ ] You've shipped **4–5 portfolio projects**, each with an eval and an observability artifact.
 - [ ] You can tell the whole-loop story above about one of them, with numbers.
 
-Then stop preparing. **Get referred, get prepped, get Landed →** [landed.jobs](https://landed.jobs)
+Then stop preparing. **Get matched, get prepped, get Landed →** [landed.jobs](https://landed.jobs)
 
 ---
 
