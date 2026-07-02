@@ -50,7 +50,7 @@ Eval is the new system design. These turn "looks right" into a number you can ga
 
 | Tool | What it's for | Docs | License | Stars |
 |---|---|---|---|---|
-| 🛠️ **DeepEval** | pytest-style LLM tests, G-Eval, red-teaming; drop into CI | [deepeval.com/docs](https://deepeval.com/docs) | 🟢 Apache-2.0 | ~17k ⭐ |
+| 🛠️ **DeepEval** | pytest-style LLM tests, G-Eval, red-teaming; drop into CI | [deepeval.com/docs](https://deepeval.com/docs/getting-started) | 🟢 Apache-2.0 | ~17k ⭐ |
 | 🛠️ **RAGAS** | RAG-specific metrics: faithfulness, context precision/recall, answer relevancy | [docs.ragas.io](https://docs.ragas.io) | 🟢 Apache-2.0 | ~15k ⭐ |
 | 🛠️ **Evidently** | 100+ metrics + dashboards for LLM and ML monitoring | [docs.evidentlyai.com](https://docs.evidentlyai.com) | 🟢 Apache-2.0 | ~8k ⭐ |
 | 🛠️ **Phoenix (Arize)** | Open-source tracing **and** eval, OpenTelemetry-native | [arize.com/docs/phoenix](https://arize.com/docs/phoenix) | 🟢 Apache-2.0 | ~10k ⭐ |

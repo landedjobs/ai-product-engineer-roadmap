@@ -65,7 +65,7 @@ The canonical, license-checked map of the tools an AI Product Engineer actually 
 |---|---|---|---|
 | 🧩 **Orchestration** | **LangChain** · LlamaIndex · DSPy · LiteLLM | [langchain](https://python.langchain.com) · [llamaindex](https://docs.llamaindex.ai) · [dspy](https://dspy.ai) | MIT / MIT / Apache-2.0 |
 | 🤝 **Agents** | **LangGraph** · OpenAI Agents SDK · MCP · LiveKit Agents · Pipecat | [langgraph](https://langchain-ai.github.io/langgraph/) · [agents-sdk](https://openai.github.io/openai-agents-python/) · [mcp](https://modelcontextprotocol.io) | MIT / MIT / MIT |
-| 🧪 **Eval** | **DeepEval** · RAGAS · Evidently · Phoenix | [deepeval](https://deepeval.com/docs) · [ragas](https://docs.ragas.io) · [evidently](https://docs.evidentlyai.com) | Apache-2.0 (all) |
+| 🧪 **Eval** | **DeepEval** · RAGAS · Evidently · Phoenix | [deepeval](https://deepeval.com/docs/getting-started) · [ragas](https://docs.ragas.io) · [evidently](https://docs.evidentlyai.com) | Apache-2.0 (all) |
 | 🔭 **Observability** | **Langfuse** · Arize Phoenix · OpenTelemetry GenAI | [langfuse](https://langfuse.com/docs) · [phoenix](https://arize.com/docs/phoenix) · [otel](https://opentelemetry.io/docs/specs/semconv/gen-ai/) | MIT / Apache-2.0 / Apache-2.0 |
 | 🗄️ **Vector DB** | **pgvector** · Qdrant · Chroma · Weaviate · Milvus | [pgvector](https://github.com/pgvector/pgvector) · [qdrant](https://qdrant.tech/documentation/) · [chroma](https://docs.trychroma.com) | PostgreSQL / Apache-2.0 / Apache-2.0 |
 | 🚀 **Deploy & serve** | **vLLM** · BentoML · Modal | [vllm](https://docs.vllm.ai) · [bentoml](https://docs.bentoml.com) · [modal](https://modal.com/docs) | Apache-2.0 / Apache-2.0 / proprietary |
