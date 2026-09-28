@@ -52,6 +52,7 @@ flowchart LR
 - [The 7-stage roadmap](#the-7-stage-roadmap): one summary + deep-link per stage
 - [Portfolio projects](#portfolio-projects): ship 4–5 artifacts, not 100 notebooks
 - [Are you ready to apply?](#are-you-ready-to-apply): the readiness check
+- [🎓 Go deeper on landed.jobs](#-go-deeper-on-landedjobs): free courses for every stage, roadmaps, salaries
 - [What's new (2026-07)](#whats-new-2026-07)
 - [FAQ](#faq)
 - [The Landed family](#related)
@@ -120,6 +121,27 @@ Close the loop, leading with **observability** (it sits *above* controlled evals
 ## Are you ready to apply?
 
 Don't guess. The **[readiness-check.md](readiness-check.md)** is a per-stage "can you…" self-assessment plus the key questions a hiring loop will actually ask, framed as a single question: *are you ready to apply?* Work the roadmap, tick the boxes, then get **referred** instead of applying cold.
+
+---
+
+## 🎓 Go deeper on landed.jobs
+
+Every stage has free courses on [landed.jobs](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=repo-home). The roadmap stays here; the courses add structured lessons for each stage. Lesson counts in brackets.
+
+| Stage | Courses |
+|---|---|
+| 🧱 1 · Foundations | [Transformers & LLM Internals](https://www.landed.jobs/resources/courses/transformers-internals?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-transformers-internals) (7) |
+| 🔧 2 · LLM App Building | [Ship Your First LLM Feature](https://www.landed.jobs/resources/courses/llm-features?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-llm-features) (6) |
+| 🔎 3 · RAG | [Retrieval-Augmented Generation](https://www.landed.jobs/resources/courses/rag-systems?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-rag-systems) (7) |
+| 🤝 4 · Agents | [Reliable tool contracts for agents](https://www.landed.jobs/resources/courses/agent-tool-contracts?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-agent-tool-contracts) (4) · [Stateful agent workflows that survive interruption](https://www.landed.jobs/resources/courses/agent-stateful-workflows?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-agent-stateful-workflows) (4) |
+| 🧪 5 · Evals & Reliability | [Agents, Evals & LLMOps](https://www.landed.jobs/resources/courses/agents-evals-llmops?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-agents-evals-llmops) (7) · [Eval, Metrics & Responsible-AI Launch](https://www.landed.jobs/resources/courses/ai-eval-launch?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-ai-eval-launch) (6) |
+| 🎨 6 · AI Product, Design & UX | [AI Product Sense & PRDs](https://www.landed.jobs/resources/courses/pm-product-sense?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-pm-product-sense) (6) · [Designing Human-AI Interaction](https://www.landed.jobs/resources/courses/ad-human-ai-interaction?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-ad-human-ai-interaction) (6) · [Prompt & Context as a Design Material](https://www.landed.jobs/resources/courses/ad-prompt-context-design?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-ad-prompt-context-design) (6) |
+| 🚀 7 · Shipping, Observability & Ops | [Reliable multi-tenant model serving](https://www.landed.jobs/resources/courses/ai-infra-serving?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-ai-infra-serving) (4) · [Fine-Tuning & Inference Optimization](https://www.landed.jobs/resources/courses/fine-tuning-inference?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-fine-tuning-inference) (6) |
+| The full-stack side | [Frontend Engineering for Product Teams](https://www.landed.jobs/resources/courses/frontend-product-teams?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-frontend-product-teams) (8) · [Backend Foundations for AI Builders](https://www.landed.jobs/resources/courses/backend-foundations-ai?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=course-backend-foundations-ai) (8) |
+
+**Roadmaps and pay.** [AI Product Engineer roadmap](https://www.landed.jobs/resources/roadmaps/ai-product-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=roadmap-ai-product-engineer) · [AI Engineer roadmap](https://www.landed.jobs/resources/roadmaps/ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=roadmap-ai-engineer) · [AI Product Manager roadmap](https://www.landed.jobs/resources/roadmaps/ai-product-manager?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=roadmap-ai-product-manager) · [AI Engineer salaries](https://www.landed.jobs/salaries/ai-engineer?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=salaries-ai-engineer) · [AI Product Manager salaries](https://www.landed.jobs/salaries/ai-product-manager?utm_source=github&utm_medium=referral&utm_campaign=github-ai-product-engineer-roadmap&utm_content=salaries-ai-product-manager)
+
+**Then the interview.** [awesome-ai-engineer-interview](https://github.com/landedjobs/awesome-ai-engineer-interview) for the loop, [759 AI interview questions by role](https://github.com/landedjobs/ai-interview-questions), and interview guides for [200 companies](https://github.com/landedjobs/ai-interview-guides).
 
 ---
 
