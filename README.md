@@ -173,7 +173,7 @@ The 5 in [projects/](projects/README.md): but the load-bearing detail is that **
 One per layer you'll touch, in this order for most people: an **orchestration** framework (LangChain or LlamaIndex), a **vector DB** (start with **pgvector**: no new infra), an **eval** tool (DeepEval), and an **observability** tool (Langfuse). Learn them by building, not by reading star counts. See [tools.md](tools.md).
 
 **Is "AI Product Engineer" a real 2026 role?**
-Yes. It has a working definition (Daniel Bentes, Feb 2026), real job posts (e.g. PostHog's "AI Product Engineer"), and a clear hiring signal, product-led companies (Linear, Vercel, Cursor and their peers) want people who ship AI features end-to-end. See the live [AI Product Engineer job list](https://github.com/landedjobs/ai-product-engineer-jobs).
+Yes. It has a working definition (Daniel Bentes, Feb 2026), real job posts (e.g. PostHog's "AI Product Engineer"), and a clear hiring signal, product-led companies (Linear, Vercel, Cursor and their peers) want people who ship AI features end-to-end. See the live [Software Engineer job list](https://github.com/landedjobs/software-engineer-jobs) (product engineer roles are listed there).
 
 ---
 
